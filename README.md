@@ -17,4 +17,4 @@
    **Naive Bayes (Gaussian NB classifier)**
       
       
-   ***UPVOTE in kaggle and star in github if you like it.  ***
+##UPVOTE in kaggle and star in github if you like it.
