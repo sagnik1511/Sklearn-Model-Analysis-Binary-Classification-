@@ -7,10 +7,10 @@
   We have 9 features and 768 rows.
   
   We can see different models 
-      ####1. RandomForestCalssifier
-      ####2. K Neighbours Classifier
-      ####3. Support Vector Machine Classifier
-      ####4. Naive Bayes (Gaussian NB classifier)
+      ###RandomForestCalssifier
+      ###K Neighbours Classifier
+      ###Support Vector Machine Classifier
+      ###Naive Bayes (Gaussian NB classifier)
       
       
       **UPVOTE in kaggle and star in github if you like it.  **
