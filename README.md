@@ -1,4 +1,4 @@
-# Sklearn-Model-Analysis-Binary-Classification-
+# Sklearn-Models-Analysis-Binary-Classification-
 
   Link of the dataset and analysis on kaggle- https://www.kaggle.com/sagnik1511/prediction-with-sklearn-classifiers-80-accuracy
   
